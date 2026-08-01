@@ -1,0 +1,207 @@
+ 
+{
+  "regions": {
+    "Bengaluru": {
+      "aliases": ["bangalore", "bengaluru", "blr"],
+      "district": "Bengaluru Urban",
+      "type": "Metropolitan city",
+      "villages_and_places": [
+        "Lalbagh Botanical Garden", "Cubbon Park", "Bangalore Palace",
+        "Nandi Hills (day trip)", "ISKCON Temple", "Wonderla Amusement Park"
+      ],
+      "food": [
+        "V.V. Puram / Thindi Beedhi food street (all-vegetarian)",
+        "Masala dosa, idli-vada", "Bisi bele bath",
+        "Multi-cuisine due to migrant population: Kerala, Andhra, Tamil, North Indian food widely available"
+      ],
+      "transport": ["Namma Metro", "BMTC city buses", "Auto-rickshaws (metered/app-based)", "Ride-hailing apps (Ola, Uber, Rapido)", "Well connected by air, rail, and national highways"],
+      "payment_modes": ["UPI widely accepted everywhere", "Cards", "Cash", "Metro smart cards"],
+      "network": "Excellent 4G/5G coverage across the city",
+      "stay_types": ["Luxury hotels", "Business hotels", "Budget lodges", "Serviced apartments", "Hostels"],
+      "rating": 4.5,
+      "best_time_to_visit": "October to February"
+    },
+    "Mysuru": {
+      "aliases": ["mysore", "mysuru"],
+      "district": "Mysuru",
+      "type": "Heritage city",
+      "villages_and_places": [
+        "Mysuru Palace", "Chamundi Hills", "Brindavan Gardens",
+        "St. Philomena's Church", "Mysuru Zoo", "Srirangapatna (nearby)"
+      ],
+      "food": [
+        "Mysore masala dosa", "Mysore pak (sweet)", "Bisi bele bath",
+        "Mysuru Dasara food mela (Sep/Oct, 150+ stalls)"
+      ],
+      "transport": ["City buses (KSRTC/Mysuru City bus)", "Auto-rickshaws", "Cabs", "Well connected by train and road from Bengaluru (~3 hrs)"],
+      "payment_modes": ["UPI", "Cards at hotels/restaurants", "Cash preferred at small vendors and markets"],
+      "network": "Good 4G coverage in city, patchy near some rural outskirts",
+      "stay_types": ["Heritage hotels", "Budget hotels", "Homestays"],
+      "rating": 4.6,
+      "best_time_to_visit": "September to March (Dasara in Sep/Oct is peak)"
+    },
+    "Hampi": {
+      "aliases": ["hampi", "vijayanagara"],
+      "district": "Ballari (Vijayanagara)",
+      "type": "UNESCO heritage / rural village site",
+      "villages_and_places": [
+        "Hampi Bazaar village", "Virupaksha Temple", "Lotus Mahal",
+        "Elephant Stables", "Vittala Temple (stone chariot)", "Anegundi village (across the river)"
+      ],
+      "food": [
+        "Simple village-style vegetarian thalis", "Israeli/backpacker cafes near Hampi Bazaar and Sanapur",
+        "Fresh coconut, banana chips, local snacks"
+      ],
+      "transport": ["Coracle boat rides across Tungabhadra", "Bicycles and mopeds for rent", "Auto-rickshaws", "Nearest railhead: Hospet Junction (~13 km)"],
+      "payment_modes": ["Cash strongly recommended (many small vendors don't take cards/UPI)", "UPI works in main bazaar area"],
+      "network": "Patchy — moderate 4G in Hampi Bazaar, weak signal near ruins and river-side villages",
+      "stay_types": ["Budget guesthouses", "Backpacker hostels", "River-side cottages in Anegundi/Sanapur", "A few resorts on the outskirts"],
+      "rating": 4.7,
+      "best_time_to_visit": "October to February"
+    },
+    "Coorg": {
+      "aliases": ["coorg", "kodagu", "madikeri"],
+      "district": "Kodagu",
+      "type": "Hill station",
+      "villages_and_places": [
+        "Madikeri town", "Abbey Falls", "Raja's Seat", "Talakaveri",
+        "Dubare Elephant Camp", "Coffee estate villages around Madikeri and Virajpet"
+      ],
+      "food": [
+        "Pandi curry (Kodava-style pork curry with kachampuli vinegar)",
+        "Akki rotti (rice flatbread)", "Kadambuttu (rice dumplings)",
+        "Locally grown coffee"
+      ],
+      "transport": ["Self-drive/rental cars recommended", "Jeeps for estate and forest routes", "No railway; nearest station Mysuru (~120 km)", "Local buses connect towns but infrequent"],
+      "payment_modes": ["UPI in towns", "Cash essential in remote estate homestays"],
+      "network": "Decent 4G in Madikeri town; weak/no signal deep in coffee estates and forest areas",
+      "stay_types": ["Coffee estate homestays (Kodava family-run)", "Resorts", "Budget lodges"],
+      "rating": 4.5,
+      "best_time_to_visit": "October to March (avoid heavy monsoon Jun-Aug)"
+    },
+    "Mangalore-Udupi": {
+      "aliases": ["mangalore", "mangaluru", "udupi", "malpe", "coastal karnataka"],
+      "district": "Dakshina Kannada / Udupi",
+      "type": "Coastal region",
+      "villages_and_places": [
+        "Malpe Beach", "St. Mary's Island", "Udupi Sri Krishna Matha",
+        "Kaup Beach and lighthouse", "Manipal (nearby university town)"
+      ],
+      "food": [
+        "Neer dosa", "Ghee roast (chicken/mutton/prawn)", "Fish curry with coconut",
+        "Original Udupi-style vegetarian cuisine (birthplace of 'Udupi restaurants')"
+      ],
+      "transport": ["City buses", "Auto-rickshaws", "Ferries to St. Mary's Island (seasonal)", "Mangalore airport and railway well connected"],
+      "payment_modes": ["UPI widely used", "Cards at restaurants", "Cash for ferries and small stalls"],
+      "network": "Strong 4G/5G in Mangalore and Udupi towns",
+      "stay_types": ["Beach resorts", "Business hotels", "Budget lodges", "Homestays near Manipal"],
+      "rating": 4.5,
+      "best_time_to_visit": "October to February"
+    },
+    "Gokarna": {
+      "aliases": ["gokarna", "kudle", "om beach"],
+      "district": "Uttara Kannada",
+      "type": "Temple town and beach village",
+      "villages_and_places": [
+        "Gokarna Main Beach", "Kudle Beach", "Om Beach", "Half Moon Beach",
+        "Mahabaleshwar Temple"
+      ],
+      "food": [
+        "Beach shacks with mixed Indian/Israeli/Western backpacker menus",
+        "Fresh seafood", "Local thalis in the temple town"
+      ],
+      "transport": ["Walking/trekking trails between beaches", "Auto-rickshaws", "Rented scooters", "Railway station in Gokarna town"],
+      "payment_modes": ["Cash preferred at beach shacks", "UPI at established restaurants and shops in town"],
+      "network": "Moderate 4G in town; weak on remote beach stretches like Paradise Beach",
+      "stay_types": ["Beach huts/shacks", "Backpacker hostels", "Guesthouses", "A few upscale resorts"],
+      "rating": 4.4,
+      "best_time_to_visit": "October to March"
+    },
+    "Badami": {
+      "aliases": ["badami", "aihole", "pattadakal"],
+      "district": "Bagalkot",
+      "type": "Historic rock-cut cave town",
+      "villages_and_places": [
+        "Badami Cave Temples", "Agastya Lake", "Badami Fort",
+        "Aihole (nearby temple complex)", "Pattadakal (UNESCO site, nearby)"
+      ],
+      "food": [
+        "North Karnataka thali: jolada rotti, yennegayi (stuffed brinjal curry), shenga chutney",
+        "Simple local eateries around the cave temple entrance"
+      ],
+      "transport": ["Buses from Hubballi/Bagalkot", "Auto-rickshaws locally", "Nearest railway: Badami station", "Best explored by car/taxi for Aihole-Pattadakal circuit"],
+      "payment_modes": ["Cash recommended", "UPI in Badami town center"],
+      "network": "Moderate 4G in town, weak near caves and rural stretches",
+      "stay_types": ["Budget hotels", "A couple of heritage/resort properties", "Homestays"],
+      "rating": 4.6,
+      "best_time_to_visit": "October to February"
+    },
+    "Hubballi-Dharwad": {
+      "aliases": ["hubli", "hubballi", "dharwad"],
+      "district": "Dharwad",
+      "type": "Twin city, North Karnataka hub",
+      "villages_and_places": [
+        "Unkal Lake", "Nrupatunga Betta", "Indi Rocks (near Dharwad)",
+        "Old Dharwad market area"
+      ],
+      "food": [
+        "Dharwad Peda (GI-tagged milk sweet)", "Jolada rotti thali",
+        "Girmit (traditional cotton candy)", "Ennegayi (stuffed brinjal curry)"
+      ],
+      "transport": ["City buses", "Auto-rickshaws", "Well connected by rail and road (major junction)", "Hubballi airport for domestic flights"],
+      "payment_modes": ["UPI widely accepted", "Cash common at local eateries"],
+      "network": "Good 4G/5G coverage in both cities",
+      "stay_types": ["Business hotels", "Budget lodges", "A few upscale hotels"],
+      "rating": 4.3,
+      "best_time_to_visit": "October to February"
+    },
+    "Bidar": {
+      "aliases": ["bidar"],
+      "district": "Bidar",
+      "type": "Deccan Sultanate heritage town",
+      "villages_and_places": [
+        "Bidar Fort", "Mahmud Gawan Madrasa", "Rangin Mahal",
+        "Bidriware craft workshops (nearby villages)"
+      ],
+      "food": [
+        "Persian-influenced Deccan cuisine", "Biryani variations",
+        "Local Kannada-Hyderabadi fusion snacks"
+      ],
+      "transport": ["Buses from Kalaburagi/Hyderabad", "Auto-rickshaws locally", "Bidar railway station", "Nearest airport: Kalaburagi or Hyderabad"],
+      "payment_modes": ["Cash recommended for small vendors and craft workshops", "UPI in town center"],
+      "network": "Moderate 4G, weaker in surrounding villages",
+      "stay_types": ["Budget hotels", "A couple of mid-range hotels"],
+      "rating": 4.4,
+      "best_time_to_visit": "October to February"
+    },
+    "Bandipur": {
+      "aliases": ["bandipur", "wildlife", "safari"],
+      "district": "Chamarajanagar",
+      "type": "National park / wildlife reserve",
+      "villages_and_places": [
+        "Bandipur National Park core zone", "Gopalaswamy Betta viewpoint",
+        "Nearby Mudumalai (Tamil Nadu border) and Ooty route"
+      ],
+      "food": ["Basic forest-lodge meals", "South Indian thalis at highway dhabas en route"],
+      "transport": ["Safari jeeps (booked in advance)", "Cars/buses along Mysuru-Ooty highway", "No railway; nearest station Mysuru (~80 km)"],
+      "payment_modes": ["Cash for safari bookings at gate", "Online booking via Karnataka Forest Dept portal recommended in advance"],
+      "network": "Weak/no signal inside the reserve; moderate near highway",
+      "stay_types": ["Forest department cottages/lodges (advance booking required)", "Private resorts on the highway"],
+      "rating": 4.4,
+      "best_time_to_visit": "October to May (avoid monsoon for safaris)"
+    },
+    "Jog Falls": {
+      "aliases": ["jog falls", "shimoga", "sagar"],
+      "district": "Shivamogga",
+      "type": "Waterfall / scenic village area",
+      "villages_and_places": ["Jog Falls viewpoints", "Kargal village", "Linganamakki Dam (nearby)"],
+      "food": ["Basic local eateries near the falls", "Malnad-style rice dishes in Shivamogga town"],
+      "transport": ["Buses from Shivamogga/Sagar", "Self-drive recommended", "Nearest railway: Talaguppa"],
+      "payment_modes": ["Cash strongly recommended, limited digital payment acceptance"],
+      "network": "Weak signal near the falls, moderate in Sagar town",
+      "stay_types": ["Basic guesthouses", "A few resorts near Sagar"],
+      "rating": 4.3,
+      "best_time_to_visit": "August to October (post-monsoon, peak water flow)"
+    }
+  }
+}
